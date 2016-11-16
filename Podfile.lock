@@ -1,0 +1,37 @@
+PODS:
+  - SlackTextViewController (1.9.5)
+  - SnapKit (3.0.2)
+  - SwiftOverlays (2.0.2)
+  - SwiftyJSON (3.1.1)
+  - TwilioCommon (0.3.4)
+  - TwilioIPMessagingClient (0.15.2):
+    - TwilioCommon (~> 0.3.4)
+
+DEPENDENCIES:
+  - SlackTextViewController
+  - SnapKit
+  - SwiftOverlays (from `https://github.com/peterprokop/SwiftOverlays`, branch `swift-3.0`)
+  - SwiftyJSON
+  - TwilioIPMessagingClient
+
+EXTERNAL SOURCES:
+  SwiftOverlays:
+    :branch: swift-3.0
+    :git: https://github.com/peterprokop/SwiftOverlays
+
+CHECKOUT OPTIONS:
+  SwiftOverlays:
+    :commit: 23208ad24e7633509ed7202cf34d93addf149a25
+    :git: https://github.com/peterprokop/SwiftOverlays
+
+SPEC CHECKSUMS:
+  SlackTextViewController: fbcdadbb8090673f604484ff5b6eb8d77baed42a
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SwiftOverlays: 3fadbfc903e54204e9fd36e2e0fe0600ea0f755a
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+  TwilioCommon: 052da2555c7b067e865356e59590ec440ba73902
+  TwilioIPMessagingClient: d61cc70425bf2927f1f084a6fccda69421962ddb
+
+PODFILE CHECKSUM: a7e6083f455a7f107d9185d4fd6cd486af7e607f
+
+COCOAPODS: 1.1.1
