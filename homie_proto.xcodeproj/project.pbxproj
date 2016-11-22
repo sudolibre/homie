@@ -8,9 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		DA7D21613D4E8EC8EB3F515E /* Pods_homie_proto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759FA2441C43FACF62B0E695 /* Pods_homie_proto.framework */; };
+		E824FFEC1DE4F4000035C903 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E824FFEB1DE4F4000035C903 /* ChatViewController.swift */; };
+		E824FFEE1DE4F4530035C903 /* ShopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E824FFED1DE4F4530035C903 /* ShopViewController.swift */; };
 		E8698EF61DCCEE33002AFB9B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8698EF51DCCEE33002AFB9B /* AppDelegate.swift */; };
-		E8698EF81DCCEE33002AFB9B /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8698EF71DCCEE33002AFB9B /* FirstViewController.swift */; };
-		E8698EFA1DCCEE33002AFB9B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8698EF91DCCEE33002AFB9B /* SecondViewController.swift */; };
 		E8698EFD1DCCEE33002AFB9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8698EFB1DCCEE33002AFB9B /* Main.storyboard */; };
 		E8698EFF1DCCEE34002AFB9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8698EFE1DCCEE34002AFB9B /* Assets.xcassets */; };
 		E8698F021DCCEE34002AFB9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8698F001DCCEE34002AFB9B /* LaunchScreen.storyboard */; };
@@ -21,10 +21,10 @@
 		3289A85AFF8D40E24182C3EF /* Pods-homie_proto.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-homie_proto.debug.xcconfig"; path = "Pods/Target Support Files/Pods-homie_proto/Pods-homie_proto.debug.xcconfig"; sourceTree = "<group>"; };
 		759FA2441C43FACF62B0E695 /* Pods_homie_proto.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_homie_proto.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2B5908009A3B2AC839A0A92 /* Pods-homie_proto.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-homie_proto.release.xcconfig"; path = "Pods/Target Support Files/Pods-homie_proto/Pods-homie_proto.release.xcconfig"; sourceTree = "<group>"; };
+		E824FFEB1DE4F4000035C903 /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		E824FFED1DE4F4530035C903 /* ShopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopViewController.swift; sourceTree = "<group>"; };
 		E8698EF21DCCEE33002AFB9B /* homie_proto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homie_proto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8698EF51DCCEE33002AFB9B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E8698EF71DCCEE33002AFB9B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		E8698EF91DCCEE33002AFB9B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		E8698EFC1DCCEE33002AFB9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E8698EFE1DCCEE34002AFB9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8698F011DCCEE34002AFB9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -84,8 +84,8 @@
 			isa = PBXGroup;
 			children = (
 				E8698EF51DCCEE33002AFB9B /* AppDelegate.swift */,
-				E8698EF71DCCEE33002AFB9B /* FirstViewController.swift */,
-				E8698EF91DCCEE33002AFB9B /* SecondViewController.swift */,
+				E824FFEB1DE4F4000035C903 /* ChatViewController.swift */,
+				E824FFED1DE4F4530035C903 /* ShopViewController.swift */,
 				E8698EFB1DCCEE33002AFB9B /* Main.storyboard */,
 				E88E8CB31DD123AF006EAB39 /* MessageTableViewCell.swift */,
 				E8698EFE1DCCEE34002AFB9B /* Assets.xcassets */,
@@ -132,6 +132,7 @@
 					E8698EF11DCCEE33002AFB9B = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = CS59J7397A;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -220,10 +221,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8698EFA1DCCEE33002AFB9B /* SecondViewController.swift in Sources */,
+				E824FFEE1DE4F4530035C903 /* ShopViewController.swift in Sources */,
 				E88E8CB41DD123AF006EAB39 /* MessageTableViewCell.swift in Sources */,
 				E8698EF61DCCEE33002AFB9B /* AppDelegate.swift in Sources */,
-				E8698EF81DCCEE33002AFB9B /* FirstViewController.swift in Sources */,
+				E824FFEC1DE4F4000035C903 /* ChatViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +268,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -316,6 +318,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -344,6 +347,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3289A85AFF8D40E24182C3EF /* Pods-homie_proto.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = CS59J7397A;
 				INFOPLIST_FILE = homie_proto/Info.plist;
@@ -358,6 +362,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C2B5908009A3B2AC839A0A92 /* Pods-homie_proto.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = CS59J7397A;
 				INFOPLIST_FILE = homie_proto/Info.plist;

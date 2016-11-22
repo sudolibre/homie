@@ -10,13 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "124"
-            endingLineNumber = "124"
-            landmarkName = "addMessages(messages:)"
-            landmarkType = "7">
+            endingLineNumber = "124">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -58,13 +56,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500941359.353537"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "81"
-            endingLineNumber = "81"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "52"
+            endingLineNumber = "52">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -74,13 +70,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500941359.353537"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "46"
+            endingLineNumber = "46">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -90,13 +84,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500941359.353537"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
+            startingLineNumber = "47"
+            endingLineNumber = "47">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -106,13 +98,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500941359.353537"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "74"
-            endingLineNumber = "74"
-            landmarkName = "FirstViewController"
-            landmarkType = "3">
+            startingLineNumber = "45"
+            endingLineNumber = "45">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -122,13 +112,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500937136.785092"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "125"
+            endingLineNumber = "125">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -138,29 +126,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "126"
-            endingLineNumber = "126"
-            landmarkName = "addMessages(messages:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500941359.353537"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "59"
-            endingLineNumber = "59"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "131"
+            endingLineNumber = "131">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -170,13 +140,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "108"
-            endingLineNumber = "108"
-            landmarkName = "loadMessages()"
-            landmarkType = "7">
+            startingLineNumber = "135"
+            endingLineNumber = "135">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -186,45 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500940980.832087"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "viewDidAppear(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500941349.380176"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "132"
-            endingLineNumber = "132"
-            landmarkName = "scrollToBottomMessage()"
-            landmarkType = "7">
+            endingLineNumber = "132">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -234,61 +168,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
-            landmarkName = "scrollToBottomMessage()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "133"
-            endingLineNumber = "133"
-            landmarkName = "scrollToBottomMessage()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "138"
-            endingLineNumber = "138"
-            landmarkName = "scrollToBottomMessage()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "137"
-            endingLineNumber = "137"
-            landmarkName = "scrollToBottomMessage()"
-            landmarkType = "7">
+            endingLineNumber = "137">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -298,13 +182,25 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "118"
-            endingLineNumber = "118"
-            landmarkName = "addMessages(messages:)"
-            landmarkType = "7">
+            endingLineNumber = "118">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -314,13 +210,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "loadMessages()"
-            landmarkType = "7">
+            startingLineNumber = "113"
+            endingLineNumber = "113">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -330,13 +224,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "119"
-            endingLineNumber = "119"
-            landmarkName = "addMessages(messages:)"
-            landmarkType = "7">
+            endingLineNumber = "119">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -346,13 +238,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500943101.356394"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "182"
-            endingLineNumber = "182"
-            landmarkName = "ipMessagingClient(_:channel:messageAdded:)"
-            landmarkType = "7">
+            startingLineNumber = "191"
+            endingLineNumber = "191">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -362,13 +252,25 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500944333.227298"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "157"
-            endingLineNumber = "157"
-            landmarkName = "ipMessagingClient(_:synchronizationStatusChanged:)"
-            landmarkType = "7">
+            endingLineNumber = "157">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -378,13 +280,25 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500944384.636964"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "93"
+            endingLineNumber = "93">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -394,13 +308,127 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "homie_proto/FirstViewController.swift"
-            timestampString = "500944479.500193"
+            timestampString = "501103514.213649"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
+            startingLineNumber = "94"
+            endingLineNumber = "94">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homie_proto/FirstViewController.swift"
+            timestampString = "501103514.213649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homie_proto.ChatViewController.ipMessagingClient (Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.TwilioIPMessagingClient&gt;, synchronizationStatusChanged : __C.TWMClientSynchronizationStatus) -&gt; ()"
+                  moduleName = "homie_proto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noj/Code/homie_proto/homie_proto/FirstViewController.swift"
+                  timestampString = "501103515.337665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "1107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homie_proto.ChatViewController.(ipMessagingClient (Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.TwilioIPMessagingClient&gt;, synchronizationStatusChanged : __C.TWMClientSynchronizationStatus) -&gt; ()).(closure #2)"
+                  moduleName = "homie_proto"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noj/Code/homie_proto/homie_proto/FirstViewController.swift"
+                  timestampString = "501103515.33947"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

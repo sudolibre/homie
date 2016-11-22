@@ -3,7 +3,6 @@ import SnapKit
 
 class MessageTableViewCell: UITableViewCell {
     
-    
     lazy var nameLabel: UILabel = {
         let label = UILabel()
         label.font = UIFont.preferredFont(forTextStyle: UIFontTextStyle.subheadline)
